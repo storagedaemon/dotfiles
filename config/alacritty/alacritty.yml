@@ -1,0 +1,78 @@
+window:
+  padding:
+    x: 13
+    y: 13
+  dynamic_padding: true
+  dynamic_title: true
+
+scrolling:
+  # Maximum number of lines in the scrollback buffer.
+  # Specifying '0' will disable scrolling.
+  history: 10000
+
+background_opacity: 0.85 # value range is 0 ~ 1
+
+cursor:
+  # Cursor style
+  style:
+    # Cursor shape
+    #
+    # Values for `shape`:
+    #   - ▇ Block
+    #   - _ Underline
+    #   - | Beam
+    shape: Block
+    blinking: Off
+  # Vi mode cursor style
+  #
+  # If the vi mode cursor style is `None` or not specified, it will fall back to
+  # the style of the active value of the normal cursor.
+  #
+  # See `cursor.style` for available options.
+  vi_mode_style: none
+font:
+  normal:
+    family: Hack Nerd Font
+    style: Regular
+
+  bold:
+    family: Hack Nerd Font
+    style: Bold
+
+  italic:
+    family: Hack Nerd Font
+    style: Italic
+
+  bold_italic:
+    family: Hack Nerd Font
+    style: Bold Italic
+
+  size: 10
+
+colors:
+  # Default colors
+  primary:
+    background: '0x5a5475'
+    foreground: '0xf8f8f2'
+
+  # Normal colors
+  normal:
+    black:   '0x282a2e'
+    red:     '0xa54242'
+    green:   '0x8c9440'
+    yellow:  '0xde935f'
+    blue:    '0x6d93b3'
+    magenta: '0xd197ac'
+    cyan:    '0xa0d3b8'
+    white:   '0xaeaea9'
+
+  # Bright colors
+  bright:
+    black:   '0x373b41'
+    red:     '0xcc6666'
+    green:   '0xb5bd68'
+    yellow:  '0xf0c674'
+    blue:    '0x81a2be'
+    magenta: '0xffb8d1'
+    cyan:    '0xc2ffdf'
+    white:   '0xf8f8f0'
