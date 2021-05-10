@@ -8,7 +8,7 @@
 
 **Compositor**: [ibhagwan's fork of picom](https://github.com/ibhagwan/picom)
 
-**Terminal**: [Alacritty](https://github.com/alacritty/alacritty)
+**Terminal**: [Alacritty](https://github.com/alacritty/alacritty) with [theme by @mxjessie](https://github.com/mxjessie/alacritty-fairyfloss)
 
 **Cursors**: [macOSBigSur](https://github.com/ful1e5/apple_cursor)
 
