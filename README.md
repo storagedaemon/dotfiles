@@ -11,3 +11,5 @@
 **Terminal**: [Alacritty](https://github.com/alacritty/alacritty)
 
 **Cursors**: [macOSBigSur](https://github.com/ful1e5/apple_cursor)
+
+**Wallpaper**: [bo0xvn](https://www.deviantart.com/bo0xvn/art/85-II-349553825)
