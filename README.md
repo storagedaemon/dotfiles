@@ -9,3 +9,5 @@
 **Compositor**: [ibhagwan's fork of picom](https://github.com/ibhagwan/picom)
 
 **Terminal**: [Alacritty](https://github.com/alacritty/alacritty)
+
+**Cursors**: [macOSBigSur](https://github.com/ful1e5/apple_cursor)
