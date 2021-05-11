@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-Inspired by: [FairyFloss Sublime Text theme](https://sailorhg.github.io/fairyfloss/)
+**Inspired by**: [FairyFloss Sublime Text theme](https://sailorhg.github.io/fairyfloss/)
 
 **Distribution**: [Arch Linux](https://archlinux.org)
 
