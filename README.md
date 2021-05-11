@@ -2,6 +2,8 @@
 
 ![screenshot](screenshot.png)
 
+Inspired by: [FairyFloss Sublime Text theme](https://sailorhg.github.io/fairyfloss/)
+
 **Distribution**: [Arch Linux](https://archlinux.org)
 
 **Window Manager**: [AwesomeWM 4.3](https://github.com/awesomeWM/awesome) with [Lain](https://github.com/lcpz/lain)
