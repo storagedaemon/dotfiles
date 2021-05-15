@@ -412,7 +412,7 @@ awful.screen.connect_for_each_screen(
             border_width = beautiful.wibar_border_width,
             screen       = s
         }
-
+--
         -- Add widgets to the wibar
         s.mywibox:setup {
             {
@@ -463,6 +463,7 @@ awful.screen.connect_for_each_screen(
                         shape_border_width = beautiful.wibar_subbar_border_width,
                         shape_border_color = beautiful.wibar_subbar_border_color,
                         widget             = wibox.container.background
+
                     },
                     left   = beautiful.useless_gap,
                     right  = beautiful.useless_gap,
@@ -597,6 +598,14 @@ globalkeys = gears.table.join(
             awful.screen.focused().systray.visible = not awful.screen.focused().systray.visible
         end,
         {description = "toggle systray visibility", group = "custom"}
+    ),
+    awful.key(
+        {modkey},
+        "p",
+        function()
+            awful.spawn("/home/whisper/bin/screen.sh")
+        end,
+        {description = "switch active screens", group = "custom"}
     ),
     -- System keys
     awful.key(

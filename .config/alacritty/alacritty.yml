@@ -32,22 +32,22 @@ cursor:
   vi_mode_style: none
 font:
   normal:
-    family: Hack Nerd Font
+    family: Iosevka Term
     style: Regular
 
   bold:
-    family: Hack Nerd Font
+    family: Iosevka Term
     style: Bold
 
   italic:
-    family: Hack Nerd Font
+    family: Iosevka Term
     style: Italic
 
   bold_italic:
-    family: Hack Nerd Font
+    family: Iosevka Term
     style: Bold Italic
 
-  size: 10
+  size: 11
 
 colors:
   primary:

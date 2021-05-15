@@ -9,7 +9,7 @@ local gears = require("gears")
 -- inherit default theme
 local theme = dofile(themes_path .. "default/theme.lua")
 
-theme.font = "Jost Book 13"
+theme.font = "SF Pro Display Light 13"
 
 theme.bg_normal = xrdb.background
 theme.bg_focus = xrdb.color13
@@ -93,7 +93,7 @@ theme.wibar_subbar_shape = function(cr, width, height)
 end
 
 -- Font for the tasklist specifically
-theme.tasklist_font = "Jost Book 9"
+theme.tasklist_font = "SF Pro Display 11"
 
 -- Define the icon theme for application icons. If not set then the icons
 -- from /usr/share/icons and /usr/share/icons/hicolor will be used.
