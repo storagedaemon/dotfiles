@@ -4,8 +4,8 @@
 include "/home/whisper/.gtkrc-2.0.mine"
 gtk-theme-name="oomox-fairyfloss"
 gtk-icon-theme-name="oomox-fairyfloss"
-gtk-font-name="Iosevka Aile 12"
-gtk-cursor-theme-name="SF Pro Display Light"
+gtk-font-name="SF Pro Display Light 12"
+gtk-cursor-theme-name="macOSBigSur"
 gtk-cursor-theme-size=0
 gtk-toolbar-style=GTK_TOOLBAR_BOTH
 gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
